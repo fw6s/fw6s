@@ -13,7 +13,7 @@ I make Roblox games and the stuff around them: Discord bots for the communities,
   <img src="assets/cooking.svg" width="49%" alt="Cooking town" />
 </p>
 <p>
-  <img src="assets/aquarium.svg" width="49%" alt="Aquarium simulator" />
+  <img src="assets/ipad.svg" width="49%" alt="Apple iPad Original" />
   <img src="assets/donations.svg" width="49%" alt="Donation cutscenes" />
 </p>
 <p>
